@@ -1,6 +1,6 @@
 ---
 title: "Why and How Should the Richest Be Taxed?"
-subtitle: "The Zucman Tax (ZT) or Ascertainable Comprehensive Income Taxation (AEIT)?"
+subtitle: "The Zucman Tax (ZT) or the Ascertainable Comprehensive Income Tax (ACIT)?"
 bibliography: references.bib
 abstract: "We re-examine here the proposal for a floor tax on wealth above €100 million, known as the “Zucman tax”, and propose an alternative tax (ACIT). The “Zucman tax” attempts to respond to the decline in effective tax rates at the top of the distribution of “economic” income. A floor tax on large fortunes would restore progressivity, block certain avoidance strategies, and bring the contribution of the ultra-rich closer to the principle of taxation according to ability to pay.
 However, while the objective is legitimate, the proposal to tax wealth is inconsistent with the problem identified — the under-taxation of economic income — because wealth is not a good proxy for income at the individual level. Moreover, if the tax base depends on market valuation, agents have an incentive to avoid its revelation. Staying “in the shadow of the market” allows both a systemic undervaluation of wealth and the avoidance of taxation during sharp rises followed by falls. By tying the tax to observable price signals, such as those produced by funding rounds or initial public offerings, the tax could discourage market participation — which is precisely what makes it possible to establish these valuations.
@@ -8,7 +8,7 @@ There is an alternative that pursues the same objectives and answers the main ob
 format:
   wp-html: default
   wp-pdf:
-    output-file: "OFCEWP2026-6_eng.pdf"
+    output-file: OFCEWP2026-10.pdf
 thanks: "We thank François Geerolf, Eloi Laurent, Xavier Ragot and Xavier Jaravel for their comments, as well as the participants in the OFCE seminar. AI tools were used to translate from the French original: Allègre G. and Timbeau X. (2026), « Pourquoi et comment taxer les plus riches ? Taxe Zucman (TZ) ou taxe sur le revenu économique et certain (tréc) ? », OFCE Working Paper No. 6/2026 — French online version at https://ofce.github.io/trec/."
 ---
 

@@ -16,10 +16,9 @@ author:
     affiliation-url: http://www.ofce.fr
     orcid: 0000-0002-6198-5953
 
-lang: fr
-
+lang: en
+french: false
 date-modified: last-modified
-
 
 # Activer pour les commentaires
 comments:
@@ -34,10 +33,10 @@ execute:
 
 website:
   site-url: https://www.ofce.fr/
-  repo-url: "https://github.com/ofce/REPO/"
+  repo-url: https://github.com/OFCE/acit/
   page-navigation: true
   bread-crumbs: true
-  favicon: www/ofce_m.png
+  favicon: www/fofce.png
   navbar:
     title: false
     search: true
@@ -104,9 +103,12 @@ website:
     - text: Annexes
       icon: file-bar-graph
       href: annexes.html
-    - text: "Historique des changements"
+    - text: "Changes history"
       icon: newspaper
       href: news.html
+    - text: "French version"
+      icon: translate
+      href: https://www.ofce.fr/wp/2026/6
   title: Why and How Should the Richest Be Taxed?
   site-path: 2026/10/v0
 
