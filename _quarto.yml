@@ -36,7 +36,7 @@ website:
   repo-url: https://github.com/OFCE/acit/
   page-navigation: true
   bread-crumbs: true
-  favicon: www/fofce.png
+  favicon: www/fofce-wp.png
   navbar:
     title: false
     search: true
@@ -123,5 +123,5 @@ citation:
   # issue et url sont calculés automatiquement par setup_wp() une fois `wp`
   # renseigné (ex. issue: "2026-12", url: "https://www.ofce.fr/2026/12/") —
   # ne pas les renseigner manuellement.
-  url: https://www.ofce.fr/2026/10/
+  url: https://www.ofce.fr/wp/2026/10/
   issue: 2026-10
